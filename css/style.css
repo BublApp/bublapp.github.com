@@ -1,0 +1,66 @@
+h1 {
+  font-size: 27px;
+  line-height: 32px;
+  color: #06365f;
+}
+
+.background {
+  width: 100%;
+  height: 280px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #517fa4;
+  background-position: 50% 50%;
+}
+
+.wrapper {
+  position: relative;
+  width: 880px;
+  margin: 0 auto;
+  zoom: 1;
+}
+
+.iphones {
+  background: url("../img/bubl-iphone.png") no-repeat 0 80px;
+  background-size: 376px 683px;
+  bottom: 46px;
+  height: 770px;
+  left: -80px;
+  margin-left: 4px;
+  padding-top: 80px;
+  position: absolute;
+  top: -10px;
+  width: 455px;
+}
+
+.content {
+  float: right;
+  position: relative;
+  width: 520px;
+  margin-top: 30px;
+}
+
+.tab {
+  margin-top: 170px;
+  background: url("../img/content-background.png") 6px 6px no-repeat;
+}
+
+.tab-content {
+  padding: 40px 56px 128px 48px;
+}
+
+.platform-badge-image {
+  height: 45px;
+}
+
+.bubl-title {
+  float: left;
+  width: 110px;
+  height: 80px;
+  background: url("../img/bubl-logo.png") no-repeat 0 0;
+  text-indent: -9999em;
+  background-size: 80px 80px;
+
+}
